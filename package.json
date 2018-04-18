@@ -1,0 +1,24 @@
+{
+  "name": "zadanie-24.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js",
+    "test:watch": "mocha index.test.js -w -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszl95/zadanie-24.4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszl95/zadanie-24.4/issues"
+  },
+  "homepage": "https://github.com/lukaszl95/zadanie-24.4#readme",
+  "devDependencies": {
+    "mocha": "^5.0.4"
+  }
+}
